@@ -1,0 +1,23 @@
+<?xml version="1.0"?> 
+ <sharpUpdate>
+
+            <update>
+                <version>1.0</version>
+                <url>https://raw.githubusercontent.com/Prod-420/Update-Kasa/main/Platej.dll</url>
+                <filePath>Platej.dll</filePath>
+                <md5>d01eaf44a535e05b707bcd2641ac5645</md5>
+                <description>jytgtrfh</description>
+                <launchArgs></launchArgs>
+            </update>
+        
+
+            <update>
+                <version>1.0</version>
+                <url>https://raw.githubusercontent.com/Prod-420/Update-Kasa/main/Platej.exe</url>
+                <filePath>Platej.exe</filePath>
+                <md5>3082375fc8359ac207862d95c8ce3bbb</md5>
+                <description>umhjhmmjhg</description>
+                <launchArgs></launchArgs>
+            </update>
+        
+</sharpUpdate>
