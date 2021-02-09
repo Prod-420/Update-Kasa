@@ -1,14 +1,14 @@
 <?xml version="1.0"?> 
  <sharpUpdate>
 
-            <update>
+            <add>
                 <version>1.0</version>
                 <url>https://raw.githubusercontent.com/Prod-420/Update-Kasa/main/Platej.dll</url>
                 <filePath>./Platej.dll</filePath>
                 <md5>d01eaf44a535e05b707bcd2641ac5645</md5>
                 <description>juytfjyujgmh</description>
                 <launchArgs></launchArgs>
-            </update>
+            </add>
         
 
             <update>
