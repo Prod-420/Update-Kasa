@@ -21,13 +21,13 @@
             </update>
         
 
-            <update>
+            <add>
                 <version>1.1</version>
                 <url>https://raw.githubusercontent.com/Prod-420/Update-Kasa/main/UserManual.pdf</url>
                 <filePath>./UserManual.pdf</filePath>
                 <md5>b21c6f60483a8a807d39660c468e5665</md5>
                 <description>Оновлений мануал</description>
                 <launchArgs></launchArgs>
-            </update>
+            </add>
         
 </sharpUpdate>
